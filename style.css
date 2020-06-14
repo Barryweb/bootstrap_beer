@@ -1,0 +1,16 @@
+.carousel-item img {
+  height: 100vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.card img {
+  height: 500px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.container-fluid {
+  padding: 0 !important;
+}
+/*# sourceMappingURL=style.css.map */
